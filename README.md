@@ -105,7 +105,7 @@ Frontend
 - React Native
 
 Architecture
-
+```
 AI Layer
    │
    ├── Learning Intelligence
@@ -118,7 +118,7 @@ AI Layer
           │
           ▼
       Learner Experience
-
+```
 ---
 
 🎯 Our Vision
@@ -147,7 +147,7 @@ And most importantly:
 📌 Repositories
 
 This organization contains the projects and components that power the KnoriX ecosystem.
-
+```
 KnoriX
 │
 ├── 🧠 AI & Learning Intelligence
@@ -156,7 +156,7 @@ KnoriX
 ├── ⚙️ Backend Services
 ├── 📱 Client Applications
 └── 🌐 Web Experience
-
+```
 ---
 
 🔬 Building the Future of Personalized Learning
